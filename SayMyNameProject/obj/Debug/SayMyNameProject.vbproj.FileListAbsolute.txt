@@ -1,0 +1,11 @@
+C:\Users\aftanom\Documents\GitHubRepos\SayMyName\SayMyName\SayMyNameProject\obj\Debug\SayMyNameProject.vbprojAssemblyReference.cache
+C:\Users\aftanom\Documents\GitHubRepos\SayMyName\SayMyName\SayMyNameProject\obj\Debug\SayMyNameProject.Resources.resources
+C:\Users\aftanom\Documents\GitHubRepos\SayMyName\SayMyName\SayMyNameProject\obj\Debug\SayMyNameProject.vbproj.GenerateResource.cache
+C:\Users\aftanom\Documents\GitHubRepos\SayMyName\SayMyName\SayMyNameProject\obj\Debug\SayMyNameProject.vbproj.CoreCompileInputs.cache
+C:\Users\aftanom\Documents\GitHubRepos\SayMyName\SayMyName\SayMyNameProject\bin\Debug\SayMyNameProject.exe.config
+C:\Users\aftanom\Documents\GitHubRepos\SayMyName\SayMyName\SayMyNameProject\bin\Debug\SayMyNameProject.exe
+C:\Users\aftanom\Documents\GitHubRepos\SayMyName\SayMyName\SayMyNameProject\bin\Debug\SayMyNameProject.pdb
+C:\Users\aftanom\Documents\GitHubRepos\SayMyName\SayMyName\SayMyNameProject\bin\Debug\SayMyNameProject.xml
+C:\Users\aftanom\Documents\GitHubRepos\SayMyName\SayMyName\SayMyNameProject\obj\Debug\SayMyNameProject.exe
+C:\Users\aftanom\Documents\GitHubRepos\SayMyName\SayMyName\SayMyNameProject\obj\Debug\SayMyNameProject.xml
+C:\Users\aftanom\Documents\GitHubRepos\SayMyName\SayMyName\SayMyNameProject\obj\Debug\SayMyNameProject.pdb
