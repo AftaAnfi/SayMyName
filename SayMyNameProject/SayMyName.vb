@@ -16,6 +16,9 @@ Module SayMyName
         Console.WriteLine("What is your name?")
         inputstring = Console.ReadLine()
         Console.WriteLine($"Hello there {inputstring}.")
+
+        Console.WriteLine()
+        Console.WriteLine("Press any key to exit...")
         Console.ReadKey(False)
 
 
