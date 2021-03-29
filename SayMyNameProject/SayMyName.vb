@@ -8,20 +8,17 @@ Option Strict On
 'https://github.com/AftaAnfi/SayMyName.git
 
 Module SayMyName
-    Dim inputstring As String
+    Dim inputString As String
 
 
     Sub Main()
         Console.Title = "Say My Name"
         Console.WriteLine("What is your name?")
         inputstring = Console.ReadLine()
-        Console.WriteLine($"Hello there {inputstring}.")
-
+        Console.WriteLine($"Hello there {inputString}.")
         Console.WriteLine()
         Console.WriteLine("Press any key to exit...")
-        Console.ReadKey(False)
-
-
+        Console.ReadLine()
     End Sub
 
 End Module
